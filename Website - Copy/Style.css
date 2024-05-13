@@ -1,0 +1,47 @@
+body{
+    background-color:00795B;
+    color: aliceblue;
+}
+
+h1, p{
+text-align: center;
+font-style: italic;
+font-size: 30px;
+font-weight: bolder;
+}
+
+input{
+    display: block;
+    margin: auto;
+    width: 600px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 10px auto;
+    border: 2px solid whitesmoke;
+    box-shadow: 5px 5px black;
+    font-size: 15;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.fun{
+    margin-bottom: 5px;
+}
+
+.me{
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    color: aquamarine;
+    font-size: 20;
+    
+    
+}
+
+.container{
+    text-align: right;
+}
+
+/*input:hover{
+    background-color: greenyellow;
+}*/
